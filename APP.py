@@ -436,3 +436,5 @@ if page == "Player Stats":
     df = read_registered()
     st.dataframe(df, use_container_width=True)
     st.caption("Advanced season-wise stats can be derived from ball-by-ball data (next version).")
+# test rebuild
+
